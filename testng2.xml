@@ -5,5 +5,5 @@
     <classes>
       <class name="com.ots.testcases.Sample2"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> 
+</suite> 
